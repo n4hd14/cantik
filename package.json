@@ -1,9 +1,11 @@
 {
   "name": "cantik",
   "main": "./lib/cantik",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "i am a beautiful woman if you are far away from me",
-  "keywords": ["nahdia"],
+  "keywords": [
+    "nahdia"
+  ],
   "activationCommands": {
     "atom-workspace": "cantik:toggle"
   },
