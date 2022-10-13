@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cantik",
+        "command": "cantik:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cantik",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cantik:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
