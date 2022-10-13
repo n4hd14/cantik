@@ -2,8 +2,8 @@
   "name": "cantik",
   "main": "./lib/cantik",
   "version": "0.1.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "i am a beautiful woman if you are far away from me",
+  "keywords": ["nahdia"],
   "activationCommands": {
     "atom-workspace": "cantik:toggle"
   },
